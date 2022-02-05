@@ -1,4 +1,3 @@
-[![MasterHead](https://c.tenor.com/GCoCQ-z_0KsAAAAi/banner-glitch.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm @tayssirkhalifa</h1>
 <h3 align="center">software engineer from Tunisia</h3>
 <p align="left">
