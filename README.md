@@ -1,10 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm @tayssirkhalifa</h1>
 <h3 align="center">software engineer from Tunisia</h3>
 
-<p align="left">
-  <img align="right" alt="Coding" width="400" src=""https://c.tenor.com/2SeTinGEKNQAAAAd/codelikeagirl.gif">
-</p>
+
 - 🔭 I’m currently working on **React-Rails Airline App**
 
 - 🌱 I’m currently learning **Ruby On Rails**
