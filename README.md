@@ -2,7 +2,7 @@
 <h3 align="center">software engineer from Tunisia</h3>
 
 <p align="left">
-  <img align="right" alt="Coding" width="400" src="https://i.ibb.co/2S7sXpn/codelikeagirl.gif">
+  <img align="right" alt="Coding" width="400" src=""https://cdn.dribbble.com/users/116207">
 </p>
 - 🔭 I’m currently working on **React-Rails Airline App**
 
