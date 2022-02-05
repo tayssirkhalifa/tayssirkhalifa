@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @tayssirkhalifa</h1>
 <h3 align="center">software engineer from Tunisia</h3>
 
-
+<img src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="Girl in a jacket" width="500" height="600">
 - 🔭 I’m currently working on **React-Rails Airline App**
 
 - 🌱 I’m currently learning **Ruby On Rails**
